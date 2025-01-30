@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   background-color: whitesmoke;
+}
+h1{
+    color: black;
+    position:sticky;
+}
+p{
+    color: black;
+    font-size: 1.5vw;
+    margin-left: 8px;
+   
+}
+.id1{
+    display: flex;
+}
+h2{
+    width: 97vw;
+    height: 8%;
+    background-color:rgb(102, 102, 2);
+    border: 2px solid rgb(102, 102, 2);
+    margin-left: 8px;
+}
+h3{
+    margin-left: 8px;
+    font-size: 1.9vw;
+}
+
